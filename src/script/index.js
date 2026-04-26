@@ -11,7 +11,7 @@ abas.forEach(aba => {
         if (aba.id === 'biog') {
             document.querySelector('.biografia').style.display = 'block';
         } else if (aba.id === 'prof') {
-            document.querySelector('.proficional').style.display = 'block';
+            document.querySelector('.profissional').style.display = 'block';
         } else if (aba.id === 'proj') {
             document.querySelector('.projetos').style.display = 'block';
         }

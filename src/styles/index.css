@@ -34,8 +34,8 @@ h1 {
 }
 
 .foto {
-    height: 10em;
-    width:  10em;
+    height: 150px;
+    width:  150px;
     box-shadow: 2px 2px 5px #dde3ca;
     border-radius: 50%;
     transform: rotate(25deg);
@@ -93,7 +93,7 @@ main {
     line-height: 28px;
 }
 
-.proficional {
+.profissional {
     width: 100%;
     height: auto;
 }
