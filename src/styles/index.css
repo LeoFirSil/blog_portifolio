@@ -80,6 +80,10 @@ main {
     background-color: #dde3ca;
 }
 
+.titleBio {
+    padding: 20px;
+}
+
 .biografia {
     height: auto;
     padding: 20px;
@@ -92,7 +96,7 @@ main {
     background-color: white;
     box-shadow: 10px 10px 5px #3d3c3b;
     border-radius: 8px;
-    margin-top: 32px;
+    padding: 2%;
     gap: 20px;
     overflow: auto;
 }
@@ -225,7 +229,7 @@ footer {
     .paragrafo {
         width: 40em;
     }
-
+im b 
 }
 
 @media screen and (min-width: 1024px) {
