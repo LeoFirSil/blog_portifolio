@@ -207,9 +207,6 @@ footer {
         width: 40em;
     }
 
-    /* ul {
-        grid-template-columns: 1fr 1fr;
-    } */
 }
 
 @media screen and (min-width: 1024px) {
